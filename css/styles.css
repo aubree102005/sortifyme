@@ -35,6 +35,8 @@ nav ul {
 
 nav li {
     font-size: 1.2em;
+    float: up;
+    float: down;
     color: #2F4F4F;
     padding: 10px;
 }
